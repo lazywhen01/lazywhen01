@@ -3,7 +3,7 @@
 Central Visayas Information Sharing Network Foundation, Inc. (2024) - IT Specialist.
 
 🌱 I’m currently learning:
-React, Typescript, and further exploring AI and machine learning technologies.
+React, Typescript, and further exploring modern technologies.
 
 ⚡ Fun fact:
 I once developed an offline Earthquake Information Website that was well-received for its innovation and functionality.
