@@ -2,17 +2,11 @@
 🔭 I’m currently working on:
 Central Visayas Information Sharing Network Foundation, Inc. (2024) - IT Specialist.
 
-👯 I’m looking to collaborate on:
-Web development projects, software solutions, and IT system implementations.
-
 🤝 I’m looking for help with:
 Expanding my knowledge in intelligent systems and natural language processing.
 
 🌱 I’m currently learning:
 React, Typescript, and further exploring AI and machine learning technologies.
-
-💬 Ask me about:
-Web development and troubleshooting hardware and software issues.
 
 ⚡ Fun fact:
 I once developed an offline Earthquake Information Website that was well-received for its innovation and functionality.
