@@ -2,9 +2,6 @@
 🔭 I’m currently working on:
 Central Visayas Information Sharing Network Foundation, Inc. (2024) - IT Specialist.
 
-🤝 I’m looking for help with:
-Expanding my knowledge in intelligent systems and natural language processing.
-
 🌱 I’m currently learning:
 React, Typescript, and further exploring AI and machine learning technologies.
 
