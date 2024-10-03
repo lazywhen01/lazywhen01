@@ -7,6 +7,6 @@
 
 | 📊 GitHub Stats | ✍️ Random Dev Quote |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazywhen01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazywhen01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
