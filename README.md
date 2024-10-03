@@ -9,7 +9,7 @@
 | --- | --- |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazywhen01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazywhen01&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Stats" height="150"/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" height="150"/>
 </p>
