@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Central Visayas Information Sharing Network Foundation, Inc. (2024) - IT Specialist.<br><br>🌱 I’m currently learning: React, Typescript, and further exploring modern technologies.<br><br>⚡ Fun fact: I once developed an offline Earthquake Information Website that was well-received for its innovation and functionality.
+🔭 I’m currently working on: Central Visayas Information Sharing Network Foundation, Inc. (2024) - Junior Software Developer.<br><br>🌱 I’m currently learning: React, Typescript, and further exploring modern technologies.<br><br>⚡ Fun fact: I once developed an offline Earthquake Information Website that was well-received for its innovation and functionality.
 
 
 # 💻 Tech Stack:
